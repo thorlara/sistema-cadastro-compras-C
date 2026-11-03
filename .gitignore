@@ -1,0 +1,10 @@
+# Executáveis e objetos
+*.exe
+*.o
+*.obj
+
+# Arquivo de dados gerado durante a execução
+aval1234.txt
+
+# Arquivos temporários
+*.log
